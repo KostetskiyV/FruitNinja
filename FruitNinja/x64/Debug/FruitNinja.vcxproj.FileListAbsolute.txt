@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.AssemblyReference.cache
+C:\Users\root\source\repos\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\root\source\repos\FruitNinja\FruitNinja\x64\Debug\FruitNinja.MyForm.resources
+C:\Users\root\source\repos\FruitNinja\FruitNinja\x64\Debug\FruitNinja.PauseMenu.resources
+C:\Users\root\source\repos\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.GenerateResource.cache
+D:\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.AssemblyReference.cache
+D:\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.SuggestedBindingRedirects.cache
+D:\FruitNinja\FruitNinja\x64\Debug\FruitNinja.MyForm.resources
+D:\FruitNinja\FruitNinja\x64\Debug\FruitNinja.PauseMenu.resources
+D:\FruitNinja\FruitNinja\x64\Debug\FruitNinja.vcxproj.GenerateResource.cache

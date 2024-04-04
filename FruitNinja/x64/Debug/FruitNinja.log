@@ -1,0 +1,52 @@
+﻿  Fruit.cpp
+D:\FruitNinja\FruitNinja\Fruit.h(77,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(77,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(103,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(139,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(140,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(142,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(143,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  MyForm.cpp
+D:\FruitNinja\FruitNinja\Fruit.h(77,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(77,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(103,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(139,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(140,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(142,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(143,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(181,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(181,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(184,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(184,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(231,14): warning C4947: System::Threading::Thread::Suspend: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(231,14): message : Сообщение: "Thread.Suspend has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+D:\FruitNinja\FruitNinja\MyForm.h(233,15): warning C4947: System::Threading::Thread::Resume: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(233,15): message : Сообщение: "Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+D:\FruitNinja\FruitNinja\MyForm.h(235,15): warning C4947: System::Threading::Thread::Resume: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(235,15): message : Сообщение: "Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+  PauseMenu.cpp
+  Source.cpp
+D:\FruitNinja\FruitNinja\Fruit.h(77,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(77,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(103,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(139,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(140,12): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(142,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\Fruit.h(143,16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(181,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(181,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(184,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(184,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\FruitNinja\FruitNinja\MyForm.h(231,14): warning C4947: System::Threading::Thread::Suspend: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(231,14): message : Сообщение: "Thread.Suspend has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+D:\FruitNinja\FruitNinja\MyForm.h(233,15): warning C4947: System::Threading::Thread::Resume: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(233,15): message : Сообщение: "Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+D:\FruitNinja\FruitNinja\MyForm.h(235,15): warning C4947: System::Threading::Thread::Resume: помечен как устаревший
+D:\FruitNinja\FruitNinja\MyForm.h(235,15): message : Сообщение: "Thread.Resume has been deprecated.  Please use other classes in System.Threading, such as Monitor, Mutex, Event, and Semaphore, to synchronize Threads or protect resources.  http://go.microsoft.com/fwlink/?linkid=14202"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+D:\FruitNinja\FruitNinja\Fruit.h(121): warning C4715: Fruit::isOnScreen: значение возвращается не при всех путях выполнения
+D:\FruitNinja\FruitNinja\Fruit.h(121): warning C4715: Fruit::isOnScreen: значение возвращается не при всех путях выполнения
+D:\FruitNinja\FruitNinja\Fruit.h(121): warning C4715: Fruit::isOnScreen: значение возвращается не при всех путях выполнения
+  Fruit.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FruitNinja.vcxproj -> D:\FruitNinja\x64\Debug\FruitNinja.exe
